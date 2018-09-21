@@ -1,4 +1,4 @@
----
+[---
 title: "Home"
 site: workflowr::wflow_site
 output:
@@ -7,3 +7,4 @@ output:
 ---
 
 Welcome to my research website.
+[my first analysis](test_analysis.html)
